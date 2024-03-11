@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '爱生活', url: 'https://blog.tangly1024.com' },
-    { title: '爱电影', url: 'https://docs.tangly1024.com' }
+    { title: '爱生活', url: '' },
+    { title: '爱电影', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
