@@ -15,9 +15,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享资源',
-  HEO_HERO_TITLE_2: '与电影相关',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_1: '电影与资源',
+  HEO_HERO_TITLE_2: '',
+  HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '欢迎收藏，交流学习',
   HEO_HERO_TITLE_LINK: '',
