@@ -17,7 +17,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '电影与资源',
   HEO_HERO_TITLE_2: '',
-  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_3: 'https://www.ac-ys.com/',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '欢迎收藏，交流学习',
   HEO_HERO_TITLE_LINK: '',
