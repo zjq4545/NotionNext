@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '豆瓣记录', url: 'https://www.notion.so/aa2d34d300e448d0b08c2932be56ee8b?v=68e281a0ea1b4fbc8eba252ab912e929&pvs=4' },
+  HEO_HERO_CATEGORY_1: { title: '豆瓣记录', url: 'https://versed-ornament-019.notion.site/aa2d34d300e448d0b08c2932be56ee8b?v=2923148baa33464c925d0a17e6b1388d&pvs=4' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
