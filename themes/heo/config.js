@@ -23,8 +23,8 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '豆瓣记录', url: 'https://versed-ornament-019.notion.site/aa2d34d300e448d0b08c2932be56ee8b?v=2923148baa33464c925d0a17e6b1388d&pvs=4' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_1: { title: '看过', url: 'https://www.notion.so/69c393822be3435180739100a7bf8a25?v=d1d056395b6c47dfa667957931d3d788' },
+  HEO_HERO_CATEGORY_2: { title: '读过', url: 'https://www.notion.so/fedcd2465d774db7b3d5b450fff97a91?v=7892e98056d047019ce2cd3aa21da76c&pvs=4' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
