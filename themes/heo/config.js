@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: 'https://www.ac-ys.com/',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '欢迎收藏，交流学习',
-  HEO_HERO_TITLE_LINK: '',
+  HEO_HERO_TITLE_5: '在线观影',
+  HEO_HERO_TITLE_LINK: 'https://movie.ac-ys.com/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '豆瓣观影记录', url: 'https://versed-ornament-019.notion.site/69c393822be3435180739100a7bf8a25?v=d1d056395b6c47dfa667957931d3d788&pvs=4' },
